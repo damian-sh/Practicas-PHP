@@ -1,0 +1,13 @@
+{
+    "name": "equipo/reservas-espacios",
+    "description": "Sistema de reservas de espacios (coworking) - Proyecto POO",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
