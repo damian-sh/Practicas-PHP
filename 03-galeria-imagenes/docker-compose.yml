@@ -1,0 +1,7 @@
+services:
+  app:
+    build: .
+    container_name: practica3_galeria
+    ports:
+      - "8082:80"
+    restart: unless-stopped

@@ -1,0 +1,9 @@
+vendor/
+.git/
+.gitignore
+Dockerfile
+docker-compose.yml
+README-DOCKER.md
+uploads/*
+!uploads/.gitkeep
+*.log
