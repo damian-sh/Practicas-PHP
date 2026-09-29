@@ -3,6 +3,9 @@
 Thumbs.db
 desktop.ini
 
+# Los .zip de entrega se publican como release de GitHub, no en el repo
+entrega-zip/
+
 # IDEs
 .vscode/
 .idea/
