@@ -1,0 +1,13 @@
+{
+    "name": "proyecto/galeria-imagenes",
+    "description": "Galería de Imágenes - Práctica Evaluada III (Validación y gestión de imágenes)",
+    "authors": [
+        {
+            "name": "damian-sh",
+            "email": "harryadonay62@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^4.3"
+    }
+}

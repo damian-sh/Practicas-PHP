@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: practica1_reservas
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
